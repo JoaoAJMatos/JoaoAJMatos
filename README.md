@@ -2,7 +2,6 @@
 
 ### <`Joao Matos`/>
 
-<img width="100%" height = "100%" src="https://c4.wallpaperflare.com/wallpaper/88/297/120/anime-sky-landscape-purple-hd-wallpaper-preview.jpg" alt="cover" />
 <img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
