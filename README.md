@@ -4,8 +4,8 @@
 
 <img align="center" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47vfm4r7wpiekvi5xs59m4g2beuylt47ggu6b765u3&rid=giphy.gif&ct=g" />
 
-### 📚 Computer Systems Management and Programming student 📚 <br/>
-### 💻 Ethical Hacking Enthusiast 💻
+### 👾 Computer Systems Management and Programming student 👾 <br/>
+### 👾 Ethical Hacking Enthusiast 👾
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
