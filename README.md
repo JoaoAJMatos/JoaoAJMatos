@@ -2,7 +2,7 @@
 
 ### <`Joao Matos`/>
 
-<img align="center" width=200px height=200px alt="side_sticker" src="https://media4.giphy.com/media/ij1WvlilscRFoIRn7u/giphy.gif?cid=ecf05e47qt0x1dua149nql8gzdrysa6a3bvjrop4n8dphjao&rid=giphy.gif&ct=g" />
+<img align="center" width=200px height=200px alt="side_sticker" src="https://media1.giphy.com/media/MwsLT5fj4c25fIn9Hm/giphy.gif?cid=ecf05e47rqevgpqx7b6zyiy5g2fkbh294sh9c2ofu975cu5x&rid=giphy.gif&ct=s" />
 
 ### 👾 Computer Systems Management and Programming student 👾 <br/>
 ### 👾 Ethical Hacking Enthusiast 👾
