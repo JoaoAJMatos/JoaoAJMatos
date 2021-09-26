@@ -2,7 +2,7 @@
 
 ### <`Joao Matos`/>
 
-<img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
+<img width="100%" height = "100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fanime-sky-landscape-purple-wallpaper-udaqo&psig=AOvVaw0edGbJ5kZQzGD_ccODyACl&ust=1632757033285000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLja6Yv8nPMCFQAAAAAdAAAAABAD" alt="cover" />
 <img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
