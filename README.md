@@ -10,8 +10,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
   ###
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAJMatos&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoAJMatos&count_private=true&show_icons=true&theme=midnight-purple" />
+
+<br/>
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAJMatos&layout=compact&langs_count=10&theme=midnight-purple"/>
+
+
+###
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
