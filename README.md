@@ -10,12 +10,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
   ###
-<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoAJMatos&count_private=true&show_icons=true&theme=midnight-purple" />
-</a>
-<a>
+
+  ###
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAJMatos&layout=compact&langs_count=10&theme=midnight-purple"/>
-</a>
 
 ###
 
