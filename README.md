@@ -13,9 +13,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoAJMatos&count_private=true&show_icons=true&theme=midnight-purple" />
 
-<br/>
-<br/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAJMatos&layout=compact&langs_count=10&theme=midnight-purple"/>
 
 
