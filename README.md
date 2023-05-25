@@ -10,9 +10,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
   ###
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoAJMatos&count_private=true&show_icons=true&theme=midnight-purple" />
-
-###
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAJMatos&count_private=true&show_icons=true&theme=midnight-purple" />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAJMatos&layout=compact&theme=midnight-purple" />
+  
+  ###
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
