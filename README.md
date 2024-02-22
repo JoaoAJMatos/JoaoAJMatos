@@ -4,8 +4,7 @@
 
 <img align="center" width=200px height=200px alt="side_sticker" src="https://media4.giphy.com/media/SHT2ELb4lvmLU9IcC1/giphy.gif?cid=ecf05e470tmy1mgsmn1iv62vzdhgio6opgei9mlmf2wjyuag&rid=giphy.gif&ct=s" />
 
-### 👾 College student 👾 <br/>
-### 👾 Ethical Hacking and Blockchain Technology Enthusiast 👾
+### 👾 Backend & Blockchain Developer 👾 <br/>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
