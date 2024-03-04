@@ -31,7 +31,7 @@
 
 #### Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,go,js,ts,lua,php,py,rust,&perline=11)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,go,js,ts,lua,php,py,rust,solidity,java,&perline=13)](https://skillicons.dev)
 
 #### Frontend technologies
 
