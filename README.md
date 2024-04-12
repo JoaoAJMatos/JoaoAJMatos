@@ -2,8 +2,6 @@
 
 ### <`Joao Matos`/>
 
-<img align="center" width=200px height=200px alt="side_sticker" src="https://media4.giphy.com/media/SHT2ELb4lvmLU9IcC1/giphy.gif?cid=ecf05e470tmy1mgsmn1iv62vzdhgio6opgei9mlmf2wjyuag&rid=giphy.gif&ct=s" />
-
 ### 👾 Backend & Blockchain Developer 👾 
 
 <br/>
