@@ -1,6 +1,6 @@
 # ⚡ João Matos
 
-**Blockchain Developer | Psychohistory Research | Decentralized Governance**
+**Blockchain Developer | Psychohistory Enthusiast | Decentralized Governance**
 
 Building the infrastructure for adaptive, transparent tech systems that transcend traditional political boundaries.
 
